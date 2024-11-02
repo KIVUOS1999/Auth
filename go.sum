@@ -1,3 +1,5 @@
+github.com/KIVUOS1999/easyLogs v0.0.0-20241102130958-1c510a75a6dd h1:UaecPcQEpuOylWnQTdpKh6Kv4RskZJekGNCqmtuhY6E=
+github.com/KIVUOS1999/easyLogs v0.0.0-20241102130958-1c510a75a6dd/go.mod h1:AlTU2jnqQeqWx05Gt7RU7iWM5Alq5tXaNqf6ioxuCuM=
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
 github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
 github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=

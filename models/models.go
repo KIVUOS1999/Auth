@@ -11,7 +11,8 @@ type TokenRequest struct {
 }
 
 type TokenResponse struct {
-	Auth string `json:"auth_token"`
+	Auth    string `json:"auth_token"`
+	Refresh string `json:"refresh_token"`
 }
 
 type Claims struct {
